@@ -1,1 +1,1 @@
-# DioGameDev
+# Repositório de estudo do bootcamp Potência Tech iFood - Desenvolvimento de jogos 👾💻📝
